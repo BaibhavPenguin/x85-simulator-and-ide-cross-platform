@@ -53,7 +53,7 @@ The x85 Simulator aims to bypass the cumbersome process of programming on an old
 
 * Supports 16-Bit Hexadecimal Output Display  
 * Supports 16-Bit Binary LED Array  
-* 8085 Execution Time is not supported in v0.1 Alpha.
+* v0.1 Alpha will not include support for 8085A Timing Simulation.
 
 <img width="1920" height="1048" alt="Screenshot From 2025-11-15 08-01-17" src="https://github.com/user-attachments/assets/5352d721-8248-4e16-8c79-58ca6a0e14d6" />
 
