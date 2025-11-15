@@ -1,4 +1,4 @@
-[Meeting notes.md](https://github.com/user-attachments/files/23558331/Meeting.notes.md)
+[README.md](https://github.com/user-attachments/files/23558331/Meeting.notes.md)
 ![][image1]
 
 # **x85 Simulator & IDE**
