@@ -12,8 +12,9 @@
 x85 Simulator & IDE is an all in one Intel 8085A Microprocessor Simulator and Development Environment made for students. The application is targeted towards students, educators , and hobbyists who may want to explore 8085A Assembly Programming but do not have access to an 8085 Trainer Kit.
 
 The x85 Simulator aims to bypass the cumbersome process of programming on an older platform like 8085A and make it intuitive for the user to program and monitor a simple 8085 Based Computer System
+<img width="1280" height="698" alt="20251115_083526" src="https://github.com/user-attachments/assets/1d085c7f-e048-47fb-9756-e0ce6f2a9fa9" />
 
-# ![][image2]
+# 
 
 # 
 
